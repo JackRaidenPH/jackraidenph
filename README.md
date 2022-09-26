@@ -6,6 +6,15 @@
 #### - BuildcraftRF
 #### - AIOT++
 #### ...and a whole bunch of private comissions you will either see in YT series' or won't see at all
+### Speak:
+#### - English
+#### - Belarusian
+#### - Russian
+### Understand:
+#### - English
+#### - Belarusian
+#### - Ukrainian
+#### - Russian 
 ###### *Actually an Artificial Intelligence engineer by education. 
 
 <!--
