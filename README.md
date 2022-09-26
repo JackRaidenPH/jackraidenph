@@ -1,4 +1,12 @@
-### Hi there 👋
+## Hi there 👋
+### Nothing special, just a fellow Minecraft mod dev at your service ⚙️
+### Works, honorable enough to mention:
+#### - Opus Mechanica
+#### - Dragon Survival
+#### - BuildcraftRF
+#### - AIOT++
+#### ...and a whole bunch of private comissions you will either see in YT series' or won't see at all
+###### *Actually an Artificial Intelligence engineer by education. 
 
 <!--
 **JackRaidenPH/jackraidenph** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
