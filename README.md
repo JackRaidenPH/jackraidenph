@@ -1,16 +1,12 @@
 ## Hi there 👋
-### Nothing special, just a fellow Minecraft mod dev at your service ⚙️
-### Works, honorable enough to mention:
+### ⚙️Nothing special, just a fellow Minecraft mod dev at your service 
+### ✒️Works, honorable enough to mention:
 #### - Opus Mechanica
 #### - Dragon Survival
 #### - BuildcraftRF
 #### - AIOT++
 #### ...and a whole bunch of private comissions you will either see in YT series' or won't see at all
-### Speak:
-#### - English
-#### - Belarusian
-#### - Russian
-### Understand:
+### 🌐Languages:
 #### - English
 #### - Belarusian
 #### - Ukrainian
