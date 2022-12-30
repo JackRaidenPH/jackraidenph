@@ -10,7 +10,7 @@
 #### - English
 #### - Belarusian
 #### - Ukrainian
-#### - Russian 
+#### - Russian (Unpreferable)
 ###### *Actually an Artificial Intelligence engineer by education. 
 
 <!--
